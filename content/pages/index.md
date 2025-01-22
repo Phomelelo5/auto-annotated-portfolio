@@ -22,7 +22,7 @@ sections:
       insight about my humble personage.
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-0
