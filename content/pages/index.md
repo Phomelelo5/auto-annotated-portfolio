@@ -15,9 +15,11 @@ sections:
     backgroundSize: full
     title: I’m a Communications graduate and an on-going computer tech student
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info- the decision to share my particulars with you was made so
+      you can acquire the necessary knowledge about me without hassles. The
+      skills I obtained, knowledge acquired through my journey as a student and
+      the little experience i gained will be detailed here, as well as an
+      insight about my humble personage.
     styles:
       self:
         height: auto
