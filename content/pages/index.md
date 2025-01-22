@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: I’m a Communications graduate and an on-going computer tech student
     subtitle: >-
       This is my info- the decision to share my particulars with you was made so
