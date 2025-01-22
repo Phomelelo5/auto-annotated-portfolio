@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     title: I’m a Communications graduate and an on-going computer tech student
     subtitle: >-
